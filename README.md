@@ -1,3 +1,3 @@
 # Hello-World
 
-Hellp humans my name is josh
+Hello humans my name is josh
